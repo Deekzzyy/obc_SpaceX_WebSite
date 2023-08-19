@@ -1,0 +1,19 @@
+body {
+    background: url(./assets/spacex.jpg) no-repeat top/cover;
+}
+
+p { 
+    background-color: white;
+}
+
+img {
+    border: #000000 solid 3px;
+}
+
+#spacex {
+    border: none;
+}
+
+a {
+    color: white;
+}
