@@ -5,7 +5,7 @@
 
 # About the project (Sobre o projeto)
 
-A simple site made with olny CSS and HTML to improve skills.
+A simple site made with only CSS and HTML to improve skills.
 <br>
 (Um site simples feito somente com CSS e HTML para melhorar as skills.)
 
